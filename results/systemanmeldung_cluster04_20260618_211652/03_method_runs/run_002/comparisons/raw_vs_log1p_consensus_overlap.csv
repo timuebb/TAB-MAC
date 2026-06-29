@@ -1,0 +1,5 @@
+group,top_k,raw_count,log1p_count,intersection,union,jaccard
+global_point,50,50,50,30,70,0.42857142857142855
+contextual_point,50,50,50,25,75,0.3333333333333333
+subsequence_pattern,50,50,50,20,80,0.25
+multivariate_dependency,50,50,50,32,68,0.47058823529411764

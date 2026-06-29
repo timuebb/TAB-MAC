@@ -1,0 +1,10 @@
+consensus_rank_raw,row_raw,timestamp,consensus_score_raw,available_method_count_raw,missing_method_count_raw,methods_available_raw,methods_missing_raw,methods_in_top_k_raw,methods_triggered_raw,best_method_rank_raw,consensus_rank_log1p,row_log1p,consensus_score_log1p,available_method_count_log1p,missing_method_count_log1p,methods_available_log1p,methods_missing_log1p,methods_in_top_k_log1p,methods_triggered_log1p,best_method_rank_log1p
+1,538,2024-04-22,0.9942638888888888,5,0,itrans;calf;units;datamole;gpt4ts,,5,itrans;calf;units;datamole;gpt4ts,2.0,5,538,0.9130694444444444,5,0,itrans;calf;units;datamole;gpt4ts,,1,units,2.0
+2,541,2024-04-25,0.9903333333333333,5,0,itrans;calf;units;datamole;gpt4ts,,4,itrans;calf;units;gpt4ts,1.0,1,541,0.9495416666666665,5,0,itrans;calf;units;datamole;gpt4ts,,3,itrans;calf;units,1.0
+6,531,2024-04-15,0.9701805555555556,5,0,itrans;calf;units;datamole;gpt4ts,,4,itrans;calf;units;gpt4ts,5.0,8,531,0.8982083333333334,5,0,itrans;calf;units;datamole;gpt4ts,,3,calf;units;gpt4ts,3.0
+8,563,2024-05-17,0.9640000000000001,5,0,itrans;calf;units;datamole;gpt4ts,,4,itrans;calf;units;gpt4ts,6.0,7,563,0.9000277777777776,5,0,itrans;calf;units;datamole;gpt4ts,,1,gpt4ts,4.0
+9,562,2024-05-16,0.9568750000000001,5,0,itrans;calf;units;datamole;gpt4ts,,3,itrans;calf;gpt4ts,8.0,4,562,0.9281944444444445,5,0,itrans;calf;units;datamole;gpt4ts,,2,itrans;gpt4ts,1.0
+12,573,2024-05-27,0.9284027777777778,5,0,itrans;calf;units;datamole;gpt4ts,,2,units;gpt4ts,23.0,21,573,0.8323472222222221,5,0,itrans;calf;units;datamole;gpt4ts,,2,units;gpt4ts,12.0
+13,577,2024-05-31,0.9244444444444445,3,2,itrans;datamole;gpt4ts,calf;units,0,,,9,577,0.8833333333333333,3,2,itrans;datamole;gpt4ts,calf;units,1,gpt4ts,20.0
+22,153,2023-04-03,0.9085972222222221,5,0,itrans;calf;units;datamole;gpt4ts,,2,calf;units,12.0,16,153,0.8510694444444444,5,0,itrans;calf;units;datamole;gpt4ts,,1,units,1.0
+23,561,2024-05-15,0.905375,5,0,itrans;calf;units;datamole;gpt4ts,,2,calf;gpt4ts,10.0,3,561,0.9288472222222222,5,0,itrans;calf;units;datamole;gpt4ts,,2,itrans;gpt4ts,2.0

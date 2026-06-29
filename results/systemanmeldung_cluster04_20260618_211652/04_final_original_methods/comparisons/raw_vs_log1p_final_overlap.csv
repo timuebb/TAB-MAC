@@ -1,0 +1,5 @@
+anomaly_type,top_k,raw_count,log1p_count,intersection,union,jaccard
+global_point,25,275,275,114,436,0.26146788990825687
+contextual_point,25,275,275,75,475,0.15789473684210525
+subsequence_pattern,25,275,275,75,475,0.15789473684210525
+multivariate_dependency,25,25,25,11,39,0.28205128205128205

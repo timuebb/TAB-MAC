@@ -1,0 +1,13 @@
+consensus_rank_raw,row_raw,timestamp,consensus_score_raw,available_method_count_raw,missing_method_count_raw,methods_available_raw,methods_missing_raw,methods_in_top_k_raw,methods_triggered_raw,best_method_rank_raw,consensus_rank_log1p,row_log1p,consensus_score_log1p,available_method_count_log1p,missing_method_count_log1p,methods_available_log1p,methods_missing_log1p,methods_in_top_k_log1p,methods_triggered_log1p,best_method_rank_log1p
+1,541,2024-04-25,0.9990147783251231,5,0,dp;zms;units;isolation_forest;calf,,5,dp;zms;units;isolation_forest;calf,1.0,7,541,0.9561525041050902,5,0,dp;zms;units;isolation_forest;calf,,3,zms;units;calf,5.0
+3,531,2024-04-15,0.9899408182813355,5,0,dp;zms;units;isolation_forest;calf,,5,dp;zms;units;isolation_forest;calf,5.0,3,531,0.9832871510673235,5,0,dp;zms;units;isolation_forest;calf,,5,dp;zms;units;isolation_forest;calf,3.0
+4,538,2024-04-22,0.9893968938149973,5,0,dp;zms;units;isolation_forest;calf,,5,dp;zms;units;isolation_forest;calf,2.0,5,538,0.9654471127531472,5,0,dp;zms;units;isolation_forest;calf,,4,dp;zms;units;isolation_forest,2.0
+5,486,2024-03-01,0.983738711001642,5,0,dp;zms;units;isolation_forest;calf,,5,dp;zms;units;isolation_forest;calf,4.0,9,486,0.9344861795292829,5,0,dp;zms;units;isolation_forest;calf,,2,units;calf,11.0
+6,499,2024-03-14,0.9795908593322388,5,0,dp;zms;units;isolation_forest;calf,,5,dp;zms;units;isolation_forest;calf,8.0,15,499,0.8883483853311439,5,0,dp;zms;units;isolation_forest;calf,,1,isolation_forest,21.0
+10,370,2023-11-06,0.9690065681444991,5,0,dp;zms;units;isolation_forest;calf,,4,dp;zms;units;calf,10.0,6,370,0.9624367131910235,5,0,dp;zms;units;isolation_forest;calf,,4,dp;zms;units;isolation_forest,5.0
+11,153,2023-04-03,0.9613591269841271,5,0,dp;zms;units;isolation_forest;calf,,2,units;calf,12.0,8,153,0.9350283935413246,5,0,dp;zms;units;isolation_forest;calf,,3,dp;zms;units,1.0
+14,580,2024-06-03,0.9589490968801314,3,2,dp;zms;isolation_forest,units;calf,2,dp;zms,17.0,2,580,0.9846743295019157,3,2,dp;zms;isolation_forest,units;calf,2,dp;zms,1.0
+15,561,2024-05-15,0.9563372331691298,5,0,dp;zms;units;isolation_forest;calf,,3,dp;zms;calf,12.0,22,561,0.857962164750958,5,0,dp;zms;units;isolation_forest;calf,,0,,
+16,314,2023-09-11,0.9404625068418172,5,0,dp;zms;units;isolation_forest;calf,,2,units;calf,20.0,11,314,0.9129173508483854,5,0,dp;zms;units;isolation_forest;calf,,1,units,10.0
+20,539,2024-04-23,0.9325790229885058,5,0,dp;zms;units;isolation_forest;calf,,3,zms;isolation_forest;calf,3.0,13,539,0.9099993158182814,5,0,dp;zms;units;isolation_forest;calf,,3,zms;isolation_forest;calf,8.0
+22,321,2023-09-18,0.9291085112205802,5,0,dp;zms;units;isolation_forest;calf,,2,zms;units,18.0,25,321,0.8492268746579091,5,0,dp;zms;units;isolation_forest;calf,,1,zms,21.0

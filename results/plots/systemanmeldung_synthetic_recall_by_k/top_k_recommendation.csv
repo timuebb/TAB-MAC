@@ -1,0 +1,6 @@
+synthetic_anomaly_type,final_group,recall_at_10,recall_at_25,recall_at_50,recall_at_75,recall_at_100,recall_at_150,recall_at_200,first_k_for_recall_0.8,first_k_for_recall_0.9,first_k_for_recall_1.0,recommended_final_k,recall_at_recommended_k
+activity_block,subsequence_pattern,0.4,0.7,0.8,0.9,0.9,0.9,0.9,31,71,,100,0.9
+contextual_peak,contextual_point,0.3,0.5,0.7,0.7,0.7,0.8,0.9,118,188,,50,0.7
+drop_to_zero,subsequence_pattern,0.2,0.5,0.8,0.8,0.9,1.0,1.0,35,97,113,100,0.9
+global_peak,global_point,1.0,1.0,1.0,1.0,1.0,1.0,1.0,3,5,6,10,1.0
+multivariate_group_peak,multivariate_dependency,0.3,1.0,1.0,1.0,1.0,1.0,1.0,22,23,24,25,1.0

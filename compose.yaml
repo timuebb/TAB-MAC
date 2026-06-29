@@ -1,0 +1,24 @@
+services:
+  tab:
+    platform: linux/amd64
+    build:
+      context: .
+      dockerfile: Dockerfile
+      secrets:
+        - pip_conf
+    image: tab-mac:py38
+    working_dir: /app
+    environment:
+      REQUESTS_CA_BUNDLE: /etc/ssl/certs/ca-certificates.crt
+      SSL_CERT_FILE: /etc/ssl/certs/ca-certificates.crt
+      PIP_CERT: /etc/ssl/certs/ca-certificates.crt
+      PYTHONPATH: /app
+    volumes:
+      - .:/app:Z
+    command: /bin/bash
+    stdin_open: true
+    tty: true
+
+secrets:
+  pip_conf:
+    file: ${HOME}/.config/pip/pip.conf

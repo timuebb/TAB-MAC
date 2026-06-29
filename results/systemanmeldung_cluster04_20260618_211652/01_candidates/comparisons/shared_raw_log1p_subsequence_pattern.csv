@@ -1,0 +1,13 @@
+consensus_rank_raw,row_raw,timestamp,consensus_score_raw,available_method_count_raw,missing_method_count_raw,methods_available_raw,methods_missing_raw,methods_in_top_k_raw,methods_triggered_raw,best_method_rank_raw,consensus_rank_log1p,row_log1p,consensus_score_log1p,available_method_count_log1p,missing_method_count_log1p,methods_available_log1p,methods_missing_log1p,methods_in_top_k_log1p,methods_triggered_log1p,best_method_rank_log1p
+1,562,2024-05-16,0.9739311029009304,5,0,kmeans;dwt;calf;itrans;ocsvm,,4,dwt;calf;itrans;ocsvm,1.0,5,562,0.9346841133004926,5,0,kmeans;dwt;calf;itrans;ocsvm,,2,itrans;ocsvm,5.0
+2,541,2024-04-25,0.9710952380952381,5,0,kmeans;dwt;calf;itrans;ocsvm,,4,dwt;calf;itrans;ocsvm,1.0,14,541,0.9105979748221127,5,0,kmeans;dwt;calf;itrans;ocsvm,,3,calf;itrans;ocsvm,1.0
+3,563,2024-05-17,0.9708143814997264,5,0,kmeans;dwt;calf;itrans;ocsvm,,4,dwt;calf;itrans;ocsvm,1.0,22,563,0.9063183497536945,5,0,kmeans;dwt;calf;itrans;ocsvm,,0,,
+4,539,2024-04-23,0.9680871647509578,5,0,kmeans;dwt;calf;itrans;ocsvm,,4,dwt;calf;itrans;ocsvm,3.0,24,539,0.9031871237000548,5,0,kmeans;dwt;calf;itrans;ocsvm,,3,calf;itrans;ocsvm,4.0
+6,561,2024-05-15,0.9652335112205803,5,0,kmeans;dwt;calf;itrans;ocsvm,,3,dwt;calf;ocsvm,1.0,9,561,0.9188888204707168,5,0,kmeans;dwt;calf;itrans;ocsvm,,2,itrans;ocsvm,19.0
+7,584,2024-06-07,0.9626436781609196,4,1,kmeans;dwt;itrans;ocsvm,calf,3,kmeans;itrans;ocsvm,1.0,1,584,0.9734729064039409,4,1,kmeans;dwt;itrans;ocsvm,calf,3,kmeans;itrans;ocsvm,1.0
+8,580,2024-06-03,0.9562192118226601,4,1,kmeans;dwt;itrans;ocsvm,calf,3,kmeans;itrans;ocsvm,11.0,2,580,0.9702134646962233,4,1,kmeans;dwt;itrans;ocsvm,calf,2,itrans;ocsvm,5.0
+9,588,2024-06-11,0.9540045155993433,4,1,kmeans;dwt;itrans;ocsvm,calf,2,kmeans;itrans,4.0,4,588,0.9366748768472906,4,1,kmeans;dwt;itrans;ocsvm,calf,1,ocsvm,8.0
+11,581,2024-06-04,0.9475369458128079,4,1,kmeans;dwt;itrans;ocsvm,calf,2,itrans;ocsvm,21.0,8,581,0.9236637931034484,4,1,kmeans;dwt;itrans;ocsvm,calf,0,,
+15,583,2024-06-06,0.9383949096880131,4,1,kmeans;dwt;itrans;ocsvm,calf,0,,,15,583,0.9105131362889984,4,1,kmeans;dwt;itrans;ocsvm,calf,1,kmeans,23.0
+16,577,2024-05-31,0.9342220853858785,4,1,kmeans;dwt;itrans;ocsvm,calf,1,kmeans,22.0,23,577,0.9062089490968801,4,1,kmeans;dwt;itrans;ocsvm,calf,0,,
+21,587,2024-06-10,0.9181342364532019,4,1,kmeans;dwt;itrans;ocsvm,calf,1,kmeans,12.0,19,587,0.9069724958949097,4,1,kmeans;dwt;itrans;ocsvm,calf,1,ocsvm,24.0
